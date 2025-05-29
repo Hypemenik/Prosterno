@@ -1,0 +1,6 @@
+bialy 5
+czarny 3
+student 0
+player1 0
+player2 4
+player3 3

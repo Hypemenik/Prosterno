@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ruch">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAIAAAAAAAAAAAAAAABgAAAAABA=</HashCode>
+      <FileName>semestralny.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prosterno">
+    <Position X="9.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAJAAIBAAACgAEASAQAAAAAAgCAAAQAAAAAEAAAA=</HashCode>
+      <FileName>semestralny.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gracz">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAABAAAAAAAAQAAAAAAAAAAAEAgQAAAEQAAEAAQ=</HashCode>
+      <FileName>semestralny.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tabela">
+    <Position X="7.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAIAAAABAAAAAAAAAAAAABAAAAAAAAAAABAAAQAAA=</HashCode>
+      <FileName>semestralny.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerMove">
+    <Position X="0.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAgAAAAAAAAAAEAAAAAAAAAAAAAAECAAAAAAgAA=</HashCode>
+      <FileName>semestralny.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Komputer">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>semestralny.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
